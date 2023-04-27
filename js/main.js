@@ -201,8 +201,8 @@ $(document).ready(function () {
         speed: 300,
         centerPadding: '20px',
         infinite: true,
-        autoplaySpeed: 5000,
-        autoplay: false,
+        autoplaySpeed: 4000,
+        autoplay: true,
 		asNavFor:".slider-content-activation-one",
         responsive: [{
             breakpoint: 991,
